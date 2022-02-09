@@ -13,4 +13,8 @@ https://creativecommons.org/licenses/by/3.0/
 
 ### Sound effects:
 https://mixkit.co/free-sound-effects/game/?page=2 
+
+
+### Enemy assets:
+https://www.unrealengine.com/marketplace/en-US/product/four-evil-dragons-handpainted
  
